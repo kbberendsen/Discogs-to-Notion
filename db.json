@@ -1,0 +1,3529 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "7b0412e3-8777-4e3a-91b2-e0342a46c666",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "bfc68669-7c78-4ac8-805f-5cb67adf29a5",
+                            "name": "Loyle Carner",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/24861332-Loyle-Carner-Hugo"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/sLP9Abw1ERF3n6A1sfsJt-J-m1LR3Oie_dUrUmR_1No/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/MzMyLTE2NzA2ODMz/NjAtMTkxNi5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Hugo",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Hugo",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Hugo-7b0412e387774e3a91b2e0342a46c666",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "76204dd1-0e46-4c30-b974-4dd2c63fc107",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a03da7e2-a531-4743-a279-2253e54a0f9b",
+                            "name": "Anderson .Paak",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/13835553-Anderson-Paak-Ventura"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/nRnMfcb_WpE80LhuwiAwPZQpPC5bmlrYTHqD-TUqjQg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/NTUzLTE1ODgwMzIx/MzYtNjkxNi5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Ventura",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Ventura",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Ventura-76204dd10e464c30b9744dd2c63fc107",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "865201b5-af69-47c9-b9a3-9b567b7bc7df",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "6fa8bc66-2e40-42c4-8439-c0cedfb0268e",
+                            "name": "Tora ",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/10435568-Tora-Take-a-Rest"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/GMyKtIYZeuUDxQMdRQ3Q6lpgJnP14o7CLuQB0QYyk4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM1/NTY4LTE0OTczNzkz/NDEtMTgyMC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Take a Rest",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Take a Rest",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Take-a-Rest-865201b5af6947c9b9a39b567b7bc7df",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "d8aef602-f230-4f05-96c1-f3985eff397b",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "15b72324-1cda-40e6-863a-93ad4f8222ff",
+                            "name": "Daft Punk",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/4570366-Daft-Punk-Random-Access-Memories"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/zFVZE4s0zSXUIM7OMl2UDckSq0zlopdHBHRz23zqMJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTUzOTI5NTA5/Mi02MDg3LnBuZw.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Random Access Memories",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Random Access Memories",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Random-Access-Memories-d8aef602f2304f0596c1f3985eff397b",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "03d33f30-bde0-4012-9f0f-61b907b6bb98",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "696861c5-8293-45ca-8300-9ab2f9e121ed",
+                            "name": "Kaytranada",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/15461907-Kaytranada-Bubba"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/xyNZPWWPV5Hw3vnQHP-IMYyVd_jRLdtYLClXYCGPEBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYx/OTA3LTE2MDM3MDkx/NzUtNDg3MC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bubba",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Bubba",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Bubba-03d33f30bde040129f0f61b907b6bb98",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "c4732f6c-c086-424b-83b6-3993b89c331e",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "52f0fcc4-2ec7-4496-a812-14cc14cd0da2",
+                            "name": "Bonobo",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/21709576-Bonobo-Fragments"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/J5t7dhxZ52Wn_KurNESMH6df4yLRzWBzoSvrJbCN9Og/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzA5/NTc2LTE2NDIyNTQ2/NjAtMzc3Mi5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Fragments",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Fragments",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Fragments-c4732f6cc086424b83b63993b89c331e",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "9b7c1b9d-4b90-42c3-b08d-41285428258d",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "3d2ba29f-bf77-4ae8-bd5a-6764039a12c5",
+                            "name": "Crazy Penis",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/7033756-Crazy-P-Walk-Dance-Talk-Sing"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/3yFASOTnu6OQ5k1XfLy-XqD7IGU9-JV7c7DEEJ4BCDI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzM3/NTYtMTQzMjE0Nzg1/OC0zMTA5LmpwZWc.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Walk Dance Talk Sing",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Walk Dance Talk Sing",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Walk-Dance-Talk-Sing-9b7c1b9d4b9042c3b08d41285428258d",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1a73db1b-08d0-4f22-83cf-b7f6be116af0",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1aee5700-1568-4386-9810-e46f7ec87f39",
+                            "name": "Kendrick Lamar",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/7557957-Kendrick-Lamar-To-Pimp-A-Butterfly"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/mzZN2JyPeiMrz8YnZd04bKifNZ36K5zMECcfHvnTzFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTc5/NTctMTQ0Mzk4MjAy/NC01NTk2LmpwZWc.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "To Pimp A Butterfly",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "To Pimp A Butterfly",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/To-Pimp-A-Butterfly-1a73db1b08d04f2283cfb7f6be116af0",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "de7023e1-cab3-4a96-81ff-04a933e963ab",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a03da7e2-a531-4743-a279-2253e54a0f9b",
+                            "name": "Anderson .Paak",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/8827787-Anderson-Paak-Malibu"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/WT3g0ztwppU2x3dZf8a0BFJkYBWPum9jLxFRdp5_w-8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjc3/ODctMTQ2OTYyMzg0/Ny01NjU5LmpwZWc.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Malibu",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Malibu",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Malibu-de7023e1cab34a9681ff04a933e963ab",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "ede2032d-cbb3-4e76-9a48-5845478b87fe",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "3a03f068-a5e5-4564-a52a-4dd6396731ba",
+                            "name": "Jungle ",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/5877431-Jungle-Jungle"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/U_5IUuBKZ8mv3NUBSNfDxtTmu85ezO9Q_iEyD9PB6F4/rs:fit/g:sm/q:90/h:368/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc0/MzEtMTQwNTE4MDQ5/MC03Njk5LmpwZWc.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jungle",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jungle",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jungle-ede2032dcbb34e769a485845478b87fe",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "65ed2151-6d1a-4f19-a63f-32687ad00274",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "bfc68669-7c78-4ac8-805f-5cb67adf29a5",
+                            "name": "Loyle Carner",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/13518819-Loyle-Carner-Not-Waving-But-Drowning"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/2OgS_0_Iuy75TZ4x-FfeTuoOYB_lpgs2eG2vQp4WLPs/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE4/ODE5LTE2NzkwOTAw/MTctOTM0My5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Not Waving, But Drowning",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Not Waving, But Drowning",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Not-Waving-But-Drowning-65ed21516d1a4f19a63f32687ad00274",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "6e01d4c2-87f0-40d0-8050-cedfc32e6dd0",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "c53758f0-fad3-4f54-84b1-77f6d4a8f408",
+                            "name": "Tame Impala",
+                            "color": "default"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/7252111-Tame-Impala-Currents"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/7yxfHtHp-sZ2YaIEtxw4_3cQXUUaiivqgqmgGkEfvXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTIx/MTEtMTQzOTg5NDcx/Ny02MTQyLmpwZWc.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Currents",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Currents",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Currents-6e01d4c287f040d08050cedfc32e6dd0",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "07d86318-b47e-4ccb-bb2b-1536705dd186",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "865d2c9d-6cca-467a-a8f8-b20133c20c7e",
+                            "name": "Khruangbin",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/15511221-Khruangbin-Mordechai"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/gxuH8GLDYMSpR83dJgxFydUi40gmPKo9NC1R3oXAh0M/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTEx/MjIxLTE1OTM0NjIy/NTUtNDI5MC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Mordechai",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Mordechai",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Mordechai-07d86318b47e4ccbbb2b1536705dd186",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "5be1c075-2739-4f75-87f2-3dd7872076a8",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a304efaf-5bc3-4aaa-8ba8-628ce5393566",
+                            "name": "Blackwave",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/24470483-Blackwave-No-Sleep-in-LA"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/sHAuC85M2hOF2zvDYx5UgSQtDoHGtdZ8djN2scIXXYs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDcw/NDgzLTE2NjI4MTE1/NzAtOTY3OC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "No Sleep in LA",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "No Sleep in LA",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/No-Sleep-in-LA-5be1c07527394f7587f23dd7872076a8",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "0736f749-1d93-4fbf-8d5d-9672babd1f87",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "6fa8bc66-2e40-42c4-8439-c0cedfb0268e",
+                            "name": "Tora ",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/21483991-Tora-Cant-Buy-The-Mood"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/MMbOJ1J_64X-QoBovqeviUTL_UHwKIc2uAZmneil7qQ/rs:fit/g:sm/q:90/h:393/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgz/OTkxLTE2NDA0Njc3/MTAtOTc2NC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Can‘t Buy The Mood",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Can‘t Buy The Mood",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Can-t-Buy-The-Mood-0736f7491d934fbf8d5d9672babd1f87",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "c121ee78-c9a6-44a8-b477-68f357e68b74",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "51750eee-e1e4-4c2e-9e53-233c7245c59c",
+                            "name": "Parcels",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/20846650-Parcels-DayNight"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/c87RZSedRpAzG3GUpvgjj52FO_csgGZR4f18bGGCrdo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ2/NjUwLTE2MzY5NzQ1/ODUtNjQwNi5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Day/Night",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Day/Night",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Day-Night-c121ee78c9a644a8b47768f357e68b74",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "e4e56b2f-54e5-4399-9a09-12dc21106bc9",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "ad1976f8-cbc4-4f0c-b075-d3e5a89dbb20",
+                            "name": "Maribou State",
+                            "color": "blue"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/12448883-Maribou-State-Kingdoms-In-Colour"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/izKlrBtyqrtHt80RP4CJvkbCbI1u9d6gbQpToskPZ44/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ4/ODgzLTE1NDAwMzA0/MTktNDQ3NS5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Kingdoms In Colour",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Kingdoms In Colour",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Kingdoms-In-Colour-e4e56b2f54e543999a0912dc21106bc9",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "5f6b4721-7dba-447f-adb6-7e3fd9c951dd",
+            "created_time": "2023-09-15T13:39:00.000Z",
+            "last_edited_time": "2023-09-15T13:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "07b82b6a-bef1-40a1-bdf7-bee7d6d2129f",
+                            "name": "Mac Miller",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/15389727-Mac-Miller-Circles"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/dtBh-cZSW43w-cItbzZdtNxtdV94-yl6eFOEc9XIji4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/NzI3LTE2NjY0NjU1/MDktNTE0Ni5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "000e7429-431c-4c6e-90cc-3c1bdb33a3dc",
+                            "name": "wish",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Circles",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Circles",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Circles-5f6b47217dba447fadb67e3fd9c951dd",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "33be9b2f-d285-476f-9e2d-3d94a798faff",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "707c7c75-b0dc-4278-a144-ea9726835da6",
+                            "name": "Parquet Courts",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/12009384-Parquet-Courts-Wide-Awake"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/-guD-oQww0n9mHJf_31s6unpp9oE0-VqkjIuLlwTTzU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Mzg0LTE1OTQ1Mzk2/NjUtOTM0NS5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Wide Awake!",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Wide Awake!",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Wide-Awake-33be9b2fd285476f9e2d3d94a798faff",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "ebd7bc2f-011d-4ebc-bac9-f6c1f65534ac",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "696861c5-8293-45ca-8300-9ab2f9e121ed",
+                            "name": "Kaytranada",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/8864483-Kaytranada-999"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/FyFY00PfvfyZGY4q7Tpps0PVz5_HNIaFaDDHUzUeXpw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjQ0/ODMtMTQ3MDM2MDY1/My03OTAzLmpwZWc.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "99.9%",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "99.9%",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/99-9-ebd7bc2f011d4ebcbac9f6c1f65534ac",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "34a1ae3e-cc30-45f7-8043-c8e56ed22054",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "51750eee-e1e4-4c2e-9e53-233c7245c59c",
+                            "name": "Parcels",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/15222265-Parcels-Live-Vol1"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/UQqD7a6KJUjy3flSn2xUlXfeH6QrE-IzwNSGHzQSq9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIy/MjY1LTE2MTMyNTg1/ODItMjYyNi5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Live Vol.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Live Vol.1",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Live-Vol-1-34a1ae3ecc3045f78043c8e56ed22054",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "a06352fb-f2f4-4c29-9e01-06401b68081a",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "54de93ca-64a5-4a51-941d-5527891689b5",
+                            "name": "TSHA",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/25286800-TSHA-Capricorn-Sun"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/CszW2ZbfBRrUGtAtfYcCLxPZELx6POsvJa7q3WyUplM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjg2/ODAwLTE2NzAwMTU0/MjItNDQ5MC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Capricorn Sun",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Capricorn Sun",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Capricorn-Sun-a06352fbf2f44c299e0106401b68081a",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "0d572706-dd24-42be-aeea-fbb1ddbe6bc7",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "3a03f068-a5e5-4564-a52a-4dd6396731ba",
+                            "name": "Jungle ",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/12509101-Jungle-For-Ever"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/jYZqmlNQ23uscaJTkpVXmkiskpIL9ZUZEDmsfmlu15w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA5/MTAxLTE1NDcxMDEw/NTUtNDQ1My5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "For Ever",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "For Ever",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/For-Ever-0d572706dd2442beaeeafbb1ddbe6bc7",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "0c5bb415-5d42-4cf3-8cdb-0828ea0dc23c",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a03da7e2-a531-4743-a279-2253e54a0f9b",
+                            "name": "Anderson .Paak",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/13113693-Anderson-Paak-Oxnard"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/R9LcC7Y9Ij2vABwBhEGUtUvoVSQ4lWqPqZAINss0jQs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/NjkzLTE1NjEwODA5/MjYtMTcyMC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Oxnard",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Oxnard",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Oxnard-0c5bb4155d424cf38cdb0828ea0dc23c",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "8053da0e-5789-4a40-b4f4-a35e343aa39d",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "8081e684-8951-43c5-9720-1f45005b528b",
+                            "name": "Balthazar ",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/17593180-Balthazar-Sand"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/Iu_J1r1aAS46k5niwzXYOZ5LydxZzxZCqWy4f1PYZeY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkz/MTgwLTE2MTQzNDA1/MDktNzU0MC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Sand",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Sand",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Sand-8053da0e57894a40b4f4a35e343aa39d",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "faf14219-a68d-4186-a1e8-56aa5c6b2f0a",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "3784f82b-ca5c-4c39-ab00-24bb052b3734",
+                            "name": "Waltzburg",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/14775292-Waltzburg-Cut-The-Wire-"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/IfIBqJbFgdJF_jdzSGINV0MejGW0F5AV7XhncVhitRU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc1/MjkyLTE1ODEzNTA1/MTEtOTU4MC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Cut The Wire ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Cut The Wire ",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Cut-The-Wire-faf14219a68d4186a1e856aa5c6b2f0a",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "8f385633-c8d8-4706-aacc-790575b382c7",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a304efaf-5bc3-4aaa-8ba8-628ce5393566",
+                            "name": "Blackwave",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/14380475-Blackwave-Are-We-Still-Dreaming"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/_sLPKHyi0IfBayKuct758A5KZP1h7hSdQ6T-fKD7dW0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgw/NDc1LTE2MTI4ODYw/MTItMTUwNC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Are We Still Dreaming?",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Are We Still Dreaming?",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Are-We-Still-Dreaming-8f385633c8d84706aacc790575b382c7",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "9a498a3a-173d-4883-a690-b2306270ac63",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1aee5700-1568-4386-9810-e46f7ec87f39",
+                            "name": "Kendrick Lamar",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/24356900-Kendrick-Lamar-Mr-Morale-The-Big-Steppers"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/zBPzZiIZzQPTcQ5jz9NhDUuaWAaMe-P0B5sHH6SgYZA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzU2/OTAwLTE2NjY5NDEz/MDEtNjI3Mi5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Mr. Morale & The Big Steppers",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Mr. Morale & The Big Steppers",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Mr-Morale-The-Big-Steppers-9a498a3a173d4883a690b2306270ac63",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "b632e0ac-fced-418e-92dc-64772933157b",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a03da7e2-a531-4743-a279-2253e54a0f9b",
+                            "name": "Anderson .Paak",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/7251550-Anderson-Paak-Venice"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/k0Ecb9gjwgC_ptzSXL8b5PekXmJxTYzQF3f5dqiYcHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTE1/NTAtMTQ4ODgyODg5/MS01MTUzLnBuZw.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Venice",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Venice",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Venice-b632e0acfced418e92dc64772933157b",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "98c00873-7ca3-4bb9-8e44-c8c47581f847",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "d6aa0a79-3efe-4c63-922a-09b5a5a91ad1",
+                            "name": "Weval",
+                            "color": "default"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/26294105-Weval-Remember"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/HKTWcNv2iSyM8SNry62IuIUX9v30Nf-8rqycnn_mFBM/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk0/MTA1LTE2Nzc4NzQ3/MjctNDE0Ny5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Remember",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Remember",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Remember-98c008737ca34bb98e44c8c47581f847",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "158783ab-740b-4ae3-9946-dc9a9610c058",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "2f51ce20-38af-4887-8dba-d40bd881cb22",
+                            "name": "Jayda G",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/13374359-Jayda-G-Significant-Changes"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/8o2mTu5wO5y149L6fV6zjWQAx1ewvbtJ7_QdGg-wbVg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc0/MzU5LTE1NjgxNTUz/NTktNjE1MS5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Significant Changes",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Significant Changes",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Significant-Changes-158783ab740b4ae39946dc9a9610c058",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1a3c0aeb-8980-44fb-96f9-410420ae3823",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "f85b9d82-6adf-45de-80f7-d15753b28690",
+                            "name": "Disclosure ",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/4618675-Disclosure-Settle"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/cWseRPSlnGzGSO8NuNGZHbEh8CX3l-Vh-JjF7Sx3oTU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTg2/NzUtMTM3MDQyMTk3/My03Mzg3LmpwZWc.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Settle",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Settle",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Settle-1a3c0aeb898044fb96f9410420ae3823",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "e00999a7-de32-43f6-8b2e-431bee1302a2",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "15b72324-1cda-40e6-863a-93ad4f8222ff",
+                            "name": "Daft Punk",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/2879-Daft-Punk-Discovery"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/OG3sHYS5v6DYm7GMRoOQv7gg0IcDjxcUsBmzEnJmhH4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkt/MTIzNjAzNTQ3Mi5q/cGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Discovery",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Discovery",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Discovery-e00999a7de3243f68b2e431bee1302a2",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "5094465f-1299-4fd2-87b5-be707cf9f94b",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "d1a95d6a-7846-4937-a0c7-d4d9f8cab54d",
+                            "name": "Bicep",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/17030532-Bicep-Isles"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/fUFAxgyyKKPWownWjphY5DqeBj2n8mowTil7cPETDLc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDMw/NTMyLTE2MTEyMzQ4/MzctNzcxOS5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Isles",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Isles",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Isles-5094465f12994fd287b5be707cf9f94b",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "7cea0625-e807-4c10-9af1-48d55415561e",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "21965e8f-7e0f-4b69-8b2e-b28481435e7f",
+                            "name": "Little Simz",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/20095591-Little-Simz-Sometimes-I-Might-Be-Introvert"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/0SRVBvcx_63Td-IR9dHpVcEpTO_GHlFDzwZi_eTVNIQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDk1/NTkxLTE2MzI0MTMz/NzItNzA3Ni5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Sometimes I Might Be Introvert",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Sometimes I Might Be Introvert",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Sometimes-I-Might-Be-Introvert-7cea0625e8074c109af148d55415561e",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "f72ee709-5cc5-4d42-877f-67a0e9802774",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "98d4bb8c-1921-457f-bcef-5ef14c26bcbe",
+                            "name": "Tash Sultana",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/17526067-Tash-Sultana-Terra-Firma"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/2i8DMKeiDrICmQ3Ps1gTp3TwI12dEPaMc5vtPIAned4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI2/MDY3LTE2MTYyMDA0/ODEtMzEyMC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Terra Firma",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Terra Firma",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Terra-Firma-f72ee7095cc54d42877f67a0e9802774",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1c66cc2e-00f1-4f88-9b33-d4977c09d9c8",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "b4a758fb-ed1b-479e-9607-a8e6d64f3003",
+                            "name": "Polo & Pan",
+                            "color": "blue"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/19292665-Polo-Pan-Cyclorama"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/32KU1dwGGqzA82WtsgJ_CAVT73vQ_lhj4z70q9wK5TE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjky/NjY1LTE2Mjg1NTE3/NTItMTI1Mi5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Cyclorama",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Cyclorama",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Cyclorama-1c66cc2e00f14f889b33d4977c09d9c8",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "f187e77c-6106-4e60-8815-1c83af498135",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "2e64a3d6-2ea9-4375-a86f-97a78bf6c119",
+                            "name": "Caribou",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/14791710-Caribou-Suddenly"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/9GNqUaDRqnERtpFahM6h2zWJ79vDIS0TOKSF1V9H1cM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkx/NzEwLTE2MTYwMTQy/NTYtMzcwNy5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Suddenly",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Suddenly",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Suddenly-f187e77c61064e6088151c83af498135",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "867be786-bc67-4013-b8f0-43a9f356a1ba",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1b12bd47-9b7f-40f0-ac1e-c4d34e677627",
+                            "name": "The National",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/1183731-The-National-Alligator"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/bWcIWn90Wb2iByGmmVIw-GrSouteLqKYTGbzL8w3fes/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM3/MzEtMTE5OTA1MjE5/NS5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Alligator",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Alligator",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Alligator-867be786bc674013b8f043a9f356a1ba",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "9873a602-281f-44ee-91bf-d904825c80b9",
+            "created_time": "2023-09-15T13:38:00.000Z",
+            "last_edited_time": "2023-09-15T13:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3194301-4cf5-4170-aa85-162e1515ac07"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1afa86cc-349c-402a-b660-a19466400390"
+            },
+            "archived": false,
+            "properties": {
+                "Artist": {
+                    "id": "%3B%40%60F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "51750eee-e1e4-4c2e-9e53-233c7245c59c",
+                            "name": "Parcels",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "URL": {
+                    "id": "%3ES%3Du",
+                    "type": "url",
+                    "url": "https://www.discogs.com/release/12646784-Parcels-Parcels"
+                },
+                "Album cover": {
+                    "id": "LA%7B%60",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "image",
+                            "type": "external",
+                            "external": {
+                                "url": "https://i.discogs.com/9zhDlpy6cjuZw5RQV9ajAZwhM3c72zWDjX4ndqisVko/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ2/Nzg0LTE1NDAyMTI5/MzAtNDAzNC5qcGVn.jpeg"
+                            }
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "%7Ci%5Bu",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "1c7a8b01-4e01-4d5f-b45c-c45e4eae3ae7",
+                            "name": "collection",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Album": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Parcels",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Parcels",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Parcels-9873a602281f44ee91bfd904825c80b9",
+            "public_url": null
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {}
+}
