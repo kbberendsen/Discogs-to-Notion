@@ -113,7 +113,9 @@ def get_pages():
     response = requests.post(read_url, headers=headers)
 
     data = response.json()
-    with open('db.json', 'w', encoding='utf8') as f:    
+    cur_dir = os.getcwd()
+    database = os.path.join(cur_dir, 'db.json')
+    with open(database, 'w', encoding='utf8') as f:    
         json.dump(data, f, ensure_ascii=False, indent=4)
     
     results = data['results']
