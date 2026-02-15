@@ -1,0 +1,10 @@
+services:
+  discogs-to-notion:
+    build: .
+    container_name: discogs-to-notion
+    command: python discogs_to_notion_v2.py
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+    env_file:
+      - .env

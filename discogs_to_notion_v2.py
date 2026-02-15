@@ -15,9 +15,13 @@ from dotenv import load_dotenv
 
 # %%
 # Client
-load_dotenv()
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(BASE_DIR, ".env"))
 
-discogs = discogs_client.Client('Discogs_to_Notion', user_token=os.getenv('discogs_token'))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+os.makedirs(DATA_DIR, exist_ok=True)
+
+discogs = discogs_client.Client('Discogs_to_Notion', user_token=os.getenv('DISCOGS_TOKEN'))
 me = discogs.identity()
 
 # %% [markdown]
@@ -95,7 +99,7 @@ discogs_wantlist.head()
 
 # %%
 # Initialization
-token = os.getenv('notion_token')
+token = os.getenv('NOTION_TOKEN')
 database_id = '1afa86cc349c402ab660a19466400390'
 headers = {
     'Authorization': 'Bearer ' + token,
@@ -114,7 +118,7 @@ def get_pages():
 
     data = response.json()
     cur_dir = os.getcwd()
-    database = os.path.join(cur_dir, 'db.json')
+    database = os.path.join(DATA_DIR, 'db.json')
     with open(database, 'w', encoding='utf8') as f:    
         json.dump(data, f, ensure_ascii=False, indent=4)
     
